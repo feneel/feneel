@@ -6,8 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-feneel-lightgrey)](https://github.com/feneel)
 
 - 🔭 Recent Graduate student from Stevens Institute of Technology with major in **Computer Science**.
-
-- 🌱 I’m currently learning ****
  
 - 💻 I am a self-taught programmer/ developer and I am always looking to learn new things.
 
