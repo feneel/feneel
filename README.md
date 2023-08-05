@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **feneeldoshi@gmail.com**
 
-- ⚡ Fun fact **I love to learn and explore new things in the tech space.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
