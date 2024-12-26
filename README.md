@@ -24,83 +24,43 @@
 
 <a href="https://unix.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unix/unix-original.svg"
-        alt="unix" width="40" height="40" /> </a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+        alt="unix" width="40" height="40" /> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+        width="40" height="40" /> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-        width="40" height="40" /> </a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+        width="40" height="40" /> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"
+        alt="html5" width="40" height="40" /> </a><a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /> </a>
-
-<a
+        width="40" height="40" /> </a><a
     href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /> </a>
-
-<a href="https://getbootstrap.com" target="_blank"
+        alt="javascript" width="40" height="40" /> </a><a href="https://getbootstrap.com" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a>
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img
+        alt="bootstrap" width="40" height="40" /> </a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> </a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        alt="nodejs" width="40" height="40" /> </a><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"
-        alt="expressjs" width="40" height="40" /> </a>
-        
-        
-        
-<a href="https://www.mongodb.com/" target="_blank"
+        alt="expressjs" width="40" height="40" /> </a><a href="https://www.mongodb.com/" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="40" height="40" /> </a>
-        
-        
-        
-        <a href="https://www.postgresql.org/" target="_blank"
+        alt="mongodb" width="40" height="40" /> </a> <a href="https://www.postgresql.org/" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40" /> </a>
-        
-        
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
+        alt="postgresql" width="40" height="40" /> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a>
-        
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img
+        alt="react" width="40" height="40" /> </a> <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg"
-        alt="redis" width="40" height="40" /> </a>
-        
-        
-<a href="https://firebase.google.com/" target="_blank"
+        alt="redis" width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg"
-        alt="firebase" width="40" height="40" /> </a>
-        
-        
-<a
-    href="https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software"
+        alt="firebase" width="40" height="40" /> </a><a href="https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software"
     target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg"
-        alt="jira" width="40" height="40" /> </a>
-        
-        
-        
-<a href="https://www.atlassian.com/software/confluence/resources"
+        alt="jira" width="40" height="40" /> </a> <a href="https://www.atlassian.com/software/confluence/resources"
     target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg"
         alt="confluence" width="40" height="40" /> </a><a href="https://www.sourcetreeapp.com/" target="_blank"
@@ -115,17 +75,15 @@
         alt="wordpress" width="40" height="40" /> </a><a href="https://code.visualstudio.com/docs" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"
-        alt="vscode" width="40" height="40" /> </a>
-        
-        
-<a href="https://www.oracle.com/database/sqldeveloper/"
+        alt="vscode" width="40" height="40" /> </a><a href="https://www.oracle.com/database/sqldeveloper/"
     target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg"
-        alt="oracle sql developer" width="40" height="40" /> </a>
-        
-<a href="https://mui.com/" target="_blank"
+        alt="oracle sql developer" width="40" height="40" /> </a> <a href="https://mui.com/" target="_blank"
     rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg"
-        alt="materialui" width="40" height="40" /> </a>
+        alt="materialui" width="40" height="40" /> </a> <a href="https://mui.com/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/antdesign/antdesign-original-wordmark.svg"
+            alt="AntDesign" width="40" height="40" /> </a>
 
 </p>
 
