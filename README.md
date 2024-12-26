@@ -1,33 +1,131 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feneel&label=Profile%20views&color=0e75b6&style=flat" alt="feneel" /> </p>
 <h1 align="center">Hi 👋, I'm Feneel Doshi</h1>
-<h3 align="center">Recent Grad in MS in Computer Science. A passionate Software/ Web Developer ⚛ Always learning and looking to improve.</h3>
+<h3 align="center">A passionate Software/ Full Stack Developer * Always learning and looking to improve.</h3>
     
 [![linkedIn](https://img.shields.io/badge/LinkedIn-feneeldoshi-blue)](https://linkedin.com/in/feneeldoshi/)
 [![GitHub](https://img.shields.io/badge/GitHub-feneel-lightgrey)](https://github.com/feneel)
 
 - 🔭 Recent Graduate student from Stevens Institute of Technology with major in **Computer Science**.
- 
+
 - 💻 I am a self-taught programmer/ developer and I am always looking to learn new things.
 
-- 💬 Ask me about **Python, SQL, MERN Stack.**
+- 💬 Ask me about **MERN Stack, Python and SQL.**
 
 - 📫 How to reach me **feneeldoshi@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/FeneelD" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Feneel Doshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/feneeldoshi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feneeldoshi" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/11073827" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11073827" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/feneel_doshi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feneel_doshi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/feneeldoshi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="feneeldoshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
+<p align="left">
 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://unix.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/> </a><a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="django" width="40" height="40"/> </a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a><a href="https://www.atlassian.com/software/confluence/resources" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/> </a><a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sourcetree/sourcetree-original-wordmark.svg" alt="sourcetree" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40"/> </a><a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a><a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a><a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="oracle sql developer" width="40" height="40"/> </a><a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>  
+<a href="https://unix.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unix/unix-original.svg"
+        alt="unix" width="40" height="40" /> </a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+        width="40" height="40" /> </a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+        width="40" height="40" /> </a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5" width="40" height="40" /> </a>
+
+<a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+        width="40" height="40" /> </a>
+
+<a
+    href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"
+        alt="javascript" width="40" height="40" /> </a>
+
+<a href="https://getbootstrap.com" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        alt="bootstrap" width="40" height="40" /> </a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs" width="40" height="40" /> </a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"
+        alt="expressjs" width="40" height="40" /> </a>
+        
+        
+        
+<a href="https://www.mongodb.com/" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb" width="40" height="40" /> </a>
+        
+        
+        
+        <a href="https://www.postgresql.org/" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg"
+        alt="postgresql" width="40" height="40" /> </a>
+        
+        
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"
+        alt="react" width="40" height="40" /> </a>
+        
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg"
+        alt="redis" width="40" height="40" /> </a>
+        
+        
+<a href="https://firebase.google.com/" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg"
+        alt="firebase" width="40" height="40" /> </a>
+        
+        
+<a
+    href="https://www.atlassian.com/software/jira/guides/getting-started/introduction#what-is-jira-software"
+    target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg"
+        alt="jira" width="40" height="40" /> </a>
+        
+        
+        
+<a href="https://www.atlassian.com/software/confluence/resources"
+    target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/confluence/confluence-original-wordmark.svg"
+        alt="confluence" width="40" height="40" /> </a><a href="https://www.sourcetreeapp.com/" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sourcetree/sourcetree-original-wordmark.svg"
+        alt="sourcetree" width="40" height="40" /> </a><a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+</a><a href="https://bitbucket.org/product" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original-wordmark.svg"
+        alt="bitbucket" width="40" height="40" /> </a><a href="https://wordpress.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg"
+        alt="wordpress" width="40" height="40" /> </a><a href="https://code.visualstudio.com/docs" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"
+        alt="vscode" width="40" height="40" /> </a>
+        
+        
+<a href="https://www.oracle.com/database/sqldeveloper/"
+    target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/ocom/img/sql-dev3.svg"
+        alt="oracle sql developer" width="40" height="40" /> </a>
+        
+<a href="https://mui.com/" target="_blank"
+    rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg"
+        alt="materialui" width="40" height="40" /> </a>
 
 </p>
 
@@ -35,6 +133,14 @@
 <p align="left">
 
 Some of the notable projects that I personally like-
+
+<a>
+    <li> Data Audit Module </li>
+</a>
+    <ul>
+            <p>Developed a robust Data Audit Module in React, enabling organizations to assess asset health and data quality in real time. The module streamlined tracking processes, enhanced data accuracy by 40%, and facilitated quick reassessments during site visits, ensuring efficient asset management and decision-making.
+            </p>
+    </ul>
 
 <a href="https://github.com/feneel/critiQs">
     <li> critiQs </li>
